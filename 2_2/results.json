@@ -1,0 +1,9 @@
+[
+    {
+        "endpoint": "https://api.github.co",
+        "status_code": "ERROR",
+        "response_time": null,
+        "timestamp": "2025-10-08 00:01:56",
+        "error": "HTTPSConnectionPool(host='api.github.co', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x777ab479cb00>: Failed to resolve 'api.github.co' ([Errno -2] Name or service not known)\"))"
+    }
+]
